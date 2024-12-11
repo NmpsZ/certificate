@@ -1,6 +1,6 @@
 #Certificate
 -Future Tech ทักษะอบรมประมวลผลคลาวด์
 
-![Certificate]()
+![Certificate](certificate/Clouds.png)
 
 -Java TestDome
